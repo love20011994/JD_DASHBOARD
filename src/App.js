@@ -1,9 +1,12 @@
-import React from 'react'
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
-    <div>JD DASHBOARD TESTING</div>
-  )
+    <div className="App">
+      <h1>JD DASHBOARD</h1>
+    </div>
+  );
 }
 
-export default App
+export default App;
